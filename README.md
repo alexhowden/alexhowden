@@ -13,7 +13,8 @@ Currently, I'm a Software Engineer Intern at **Bumble Bee Scribe**, building an 
 
 ### 🚀 Featured Projects
 
-* **[Autonomous Off-Road Perception System](https://github.com/HATCI-MDP)** * *Tech:* Deep Learning, CARLA, SegFormer, Computer Vision
+* **[Autonomous Off-Road Perception System](https://github.com/HATCI-MDP)**
+  * *Tech:* Deep Learning, CARLA, SegFormer, Computer Vision
   * *What it is:* A real-time perception stack for off-road autonomous vehicles, using semantic segmentation to localize drivable boundaries in unstructured terrain where traditional lane detection fails.
 
 * **[AutoCal - AI Calendar Assistant](https://github.com/alexhowden/AutoCal)**
