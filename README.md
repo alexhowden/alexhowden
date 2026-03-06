@@ -1,6 +1,6 @@
 # Hi, I'm Alex Howden
 
-I'm a Computer Science student at the University of Michigan ('27) specializing in backend development, applied AI, and multi-agent systems. I enjoy building software that quietly makes things work better—from scalable APIs and real-time data pipelines to autonomous computer vision systems.
+I'm a Computer Science student at the University of Michigan ('27) specializing in backend development, applied AI, and multi-agent systems.
 
 Currently, I'm a Software Engineer Intern at **Bumble Bee Scribe**, building an autonomous multi-agent clinical workflow using Python and LangGraph.
 
